@@ -27,5 +27,9 @@ $teams = [
 
 <p1> KODU TERMİNALDE AÇTIKTAN SONRA php -S localhost:8080 ile başlatın. </p1>
 
+<img width="1073" alt="image" src="https://github.com/user-attachments/assets/f333a258-d9cd-4585-9b33-4ed43b4fc244">
+
+
+
 
 
