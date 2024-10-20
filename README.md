@@ -32,8 +32,7 @@ $teams = [
 
 
 ## Screenshots
-
-![App Screenshot] <img width="738" alt="image" src="https://github.com/user-attachments/assets/0b108f33-01b7-4821-be70-1730af056552">
+<img width="738" alt="image" src="https://github.com/user-attachments/assets/0b108f33-01b7-4821-be70-1730af056552">
 
 localhosttan girip kontrol edebilirsiniz localhost:8080/vericek.php verilen çekilmesi yaklaşık 25 saniye sürüyor çekildikten sonra belirttiğim adreste
 <img width="1716" alt="image" src="https://github.com/user-attachments/assets/696271dd-f469-4717-915c-963f2613927f">
