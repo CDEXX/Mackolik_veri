@@ -25,3 +25,7 @@ $teams = [
 İstenilen sezonun maçlarını almak için siteden aldığınız linkleri yapıştırın
 
 
+<p1> KODU TERMİNALDE AÇTIKTAN SONRA php -S localhost:8080 ile başlatın. </p1>
+
+
+
